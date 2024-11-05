@@ -2,8 +2,8 @@ id: particle/blueprint-tracker-i2c-scanner
 category: tutorial
 icon: particle.png
 gitrepo: https://github.com/particle-iot/blueprint-tracker-i2c-scanner
-name: blueprint-tracker-i2c-scanner
-shortDescription: Troubleshoot I2C issues on the Tracker M8 connector with this firmware
+name: "Tracker I2C scanner"
+shortDescription: "Troubleshoot I2C devices on Tracker One M8 with scanning firmware"
 version: 1.0.0
 models: []
 language:
@@ -18,6 +18,7 @@ hardwareDependencies:
     link: https://www.particle.io/tracker-som/
     tags: [ "T-SoM" ]
 description: |
-  Troubleshoot I2C issues on the Tracker M8 connector with this firmware
+  This firmware aids in troubleshooting I2C connectivity issues on the Tracker One's M8 connector. Using a pre-built binary or compiling from source, it scans the I2C bus for devices and reports their addresses, helping diagnose connection issues.
+
   - Powers the Tracker I2C bus
   - Scans for devices, showing their I2C addresses
