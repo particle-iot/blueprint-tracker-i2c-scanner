@@ -17,6 +17,8 @@ supportedDevices:
     link: https://www.particle.io/tracker-one/
   - name: T-SoM
     link: https://www.particle.io/tracker-som/
+webIdeLink: https://go.particle.io/shared_apps/6761faa4ca3d870509cd438b
+webSetupLink: https://setup.particle.io/?app=particle-blueprint-tracker-i2c-scanner
 hardwareDependencies:
   - name: Supported device
 introduction: |
