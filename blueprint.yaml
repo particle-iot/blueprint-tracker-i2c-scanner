@@ -21,6 +21,7 @@ webIdeLink: https://go.particle.io/shared_apps/6761faa4ca3d870509cd438b
 webSetupLink: https://setup.particle.io/?app=particle-blueprint-tracker-i2c-scanner
 hardwareDependencies:
   - name: Supported device
+  - name: M8 cable
 introduction: |
   A pre-built binary is a available in `tracker-i2cscanner.bin` or you can build your own from the source in the firmware directory.
 description: |
