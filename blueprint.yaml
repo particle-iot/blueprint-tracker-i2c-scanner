@@ -6,7 +6,7 @@ tags: ["Tracker", "I2C", "Scanner"]
 icon: assets/tracker-i2c-scanner.svg
 gitrepo: https://github.com/particle-iot/blueprint-tracker-i2c-scanner
 name: "Tracker I2C scanner"
-shortDescription: "Troubleshoot I2C devices on Tracker One M8 with scanning firmware"
+shortDescription: "Troubleshoot I2C devices on Tracker One M8 with scanning firmware."
 version: 1.0.0
 models: []
 language: ["C++"]
