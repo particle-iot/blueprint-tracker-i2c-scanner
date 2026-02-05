@@ -1,8 +1,8 @@
 slug: particle-blueprint-tracker-i2c-scanner
 type: Tutorial
-category: "Sensors and data collection"
+category: "Tracker projects"
 expertiseLevel: "Intermediate"
-tags: ["Tracker", "I2C", "Scanner"]
+tags: ["Tracker", "I2C"]
 icon: assets/tracker-i2c-scanner.svg
 gitrepo: https://github.com/particle-iot/blueprint-tracker-i2c-scanner
 name: "Tracker I2C scanner"
