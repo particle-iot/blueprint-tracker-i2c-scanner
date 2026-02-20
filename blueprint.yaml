@@ -3,7 +3,7 @@ type: Tutorial
 category: "Tracker projects"
 expertiseLevel: "Intermediate"
 tags: ["Tracker", "I2C"]
-icon: assets/tracker-i2c-scanner.svg
+icon: assets/i2c-scanner.svg
 gitrepo: https://github.com/particle-iot/blueprint-tracker-i2c-scanner
 name: "Tracker I2C scanner"
 shortDescription: "Troubleshoot I2C devices on Tracker One M8 with scanning firmware."
